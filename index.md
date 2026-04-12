@@ -36,12 +36,12 @@ Ethics Papers
 -   **Class: Data Structure Analysis**  
 -   **Grade: A**
 
-### [Privacy and Anonymity](algorithms-ethics-paper.docx)
+### [Privacy and Anonymity](pdf/CSCI 415 Ethics Paper.pdf)
 
 -   **Class: Algorithms** 
 -   **Grade: B**
 
-### [Network Pen Testing Ethics](Ethics Essay CSCI-452.docx)
+### [Network Pen Testing Ethics](pdf/CSCI 452 Ethics Paper.pdf)
 
 -   **Class: Network Pen Testing** 
 -   **Grade: B**
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](algorithms-ethics-paper.docx)
+### [Presentation 1 Title](algorithms-ethics-paper.doc)
 
 - **Class:** 
 - **Grade:**
