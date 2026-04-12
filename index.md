@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Paper 1 Title](CSCI 315 Ethics Paper.pdf)
 
--   **Class: Object Oriented Programming**  
+-   **Class: Data Structure Analysis**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Paper 2 Title](/pdf/sample_presentation.pd)
 
--   **Class: Data Structure Analysis** 
--   **Grade: A**
+-   **Class: Network Pen Testing** 
+-   **Grade: B**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class: Network Pen Testing** 
+-   **Class: Algorithms** 
 -   **Grade: B**
 
 ---
