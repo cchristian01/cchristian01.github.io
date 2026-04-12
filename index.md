@@ -4,7 +4,7 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
 ### [Project 1 Title | CSCI 301](project1)
@@ -33,18 +33,18 @@ Ethics Papers
 
 ### [Paper 1 Title](/pdf/sample_presentation.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: Object Oriented Programming**  
+-   **Grade: A**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Data Structure Analysis** 
+-   **Grade: A**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: Network Pen Testing** 
+-   **Grade: B**
 
 ---
 
