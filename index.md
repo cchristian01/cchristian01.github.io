@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](CSCI 315 Ethics Paper.pdf)
+### [Ethics In Computer Science](CSCI 315 Ethics Paper.pdf)
 
 -   **Class: Data Structure Analysis**  
 -   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pd)
-
--   **Class: Network Pen Testing** 
--   **Grade: B**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Privacy and Anonymity](algorithms-ethics-paper.docx)
 
 -   **Class: Algorithms** 
+-   **Grade: B**
+
+### [Network Pen Testing Ethics](Ethics Essay CSCI-452.docx)
+
+-   **Class: Network Pen Testing** 
 -   **Grade: B**
 
 ---
@@ -51,7 +51,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Presentation 1 Title](algorithms-ethics-paper.docx)
 
 - **Class:** 
 - **Grade:**
