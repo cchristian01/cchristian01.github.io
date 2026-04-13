@@ -51,7 +51,7 @@ Presentations
 
 ### [Instruction Memory MIPS32 SCP](algorithms-ethics-paper.doc)
 
-- **Class:Computer Architecture** 
+- **Class: Computer Architecture** 
 - **Grade: A**
 
 
