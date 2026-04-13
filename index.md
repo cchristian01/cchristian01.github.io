@@ -49,13 +49,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](algorithms-ethics-paper.doc)
+### [Instruction Memory MIPS32 SCP](algorithms-ethics-paper.doc)
 
-- **Class:** 
-- **Grade:**
+- **Class:Computer Architecture** 
+- **Grade: A**
 
 
-### [Memory Paging](pdf/OS Paging Presentation.pdf)
+### [Memory Paging Intel 32-bit](pdf/OS Paging Presentation.pdf)
 
 - **Class: Operating Systems** 
 - **Grade: A**
