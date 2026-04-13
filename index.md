@@ -1,5 +1,3 @@
-Portfolio
-=========
 
 Programming Projects
 --------------------
@@ -39,7 +37,7 @@ Ethics Papers
 ### [Privacy and Anonymity](pdf/CSCI 415 Ethics Paper.pdf)
 
 -   **Class: Algorithms** 
--   **Grade: B**
+-   **Grade: A**
 
 ### [Network Pen Testing Ethics](pdf/CSCI 452 Ethics Paper.pdf)
 
@@ -57,10 +55,10 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Memory Paging](pdf/OS Paging Presentation.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Operating Systems** 
+- **Grade: A**
 
 ---
 
