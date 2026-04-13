@@ -29,7 +29,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Ethics In Computer Science](CSCI 315 Ethics Paper.pdf)
+### [Ethics In Computer Science](pdf/CSCI 315 Ethics Paper.pdf)
 
 -   **Class: Data Structure Analysis**  
 -   **Grade: A**
