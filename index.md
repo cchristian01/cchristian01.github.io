@@ -22,7 +22,7 @@ Programming Projects
 ---
 ### [Buddy Chat | CSCI 332](project4)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4-ss2.png)
 
 ---
 
