@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Game Collection
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: Object Oriented Programming** 
+-   **Grade: A** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/csu-cs/CSCI-325-Fall23-GameCollection/tree/master/GameCollection)  
+    (Please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
