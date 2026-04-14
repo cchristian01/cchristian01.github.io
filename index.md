@@ -7,7 +7,7 @@ Programming Projects
 ---
 ### [Web Scraper | CSCI 301](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/project1-ss1.png)
 
 ---
 ### [Web Crawler | CSCI 315](project2)
