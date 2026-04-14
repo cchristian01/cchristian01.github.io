@@ -31,10 +31,10 @@ When the server is run, the user will have to enter the port number they want th
 ![screenshot](images/project4-ss1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project4-ss3.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project4-ss4.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
