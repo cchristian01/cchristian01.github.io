@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Web Crawler
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: Data Structure Analysis** 
+-   **Grade: A** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/cchristian01/CSCI-315-2024-Spring/tree/master/project2)  
+    (Please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
@@ -19,7 +19,7 @@ How to compile (if applicable) and run the project.
 
 ```bash
 cd ./project
-python setup.py
+make run
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
