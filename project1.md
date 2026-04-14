@@ -37,7 +37,7 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Requests library and beautiful soup library needs to be installed if they are not installed, To install use the commands:
+The 'requests' library and 'beautiful soup' library both need to be installed if they are not installed, To install use the commands:
 python -m pip install requests
 pip install beautifulsoup4
 
