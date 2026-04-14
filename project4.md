@@ -1,13 +1,13 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Buddy Chat
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class: ** 
+-   **Grade: A** 
+-   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
