@@ -6,7 +6,7 @@ Buddy Chat
 -   **Class: Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/cchristian01/AppliedNetworking/tree/main/TermProjectApplied)  
     (Please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
 
 ## Project description
