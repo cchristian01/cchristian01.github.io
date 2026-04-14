@@ -35,7 +35,7 @@ Fig 1. User sends messages with buddychat and buddy responds
 Fig 2. Server logs client's message and its response
 
 ![screenshot](images/project4-ss4.png)  
-Fig 3. Two separate linux VMs running server and buddychat to communicate
+Fig 3. Two separate Linux VMs running server and buddychat to communicate
 
 ## 3. Additional Considerations
 
