@@ -28,7 +28,7 @@ g++ buddychat.cpp -o buddychat.out && ./buddychat.out
 
 When the server is run, the user will have to enter the port number they want the server to run on. The server will need to be running to receive messages from the user running buddychat. When buddychat is run, the user will first have to enter their buddy's ip and port number and then they can send messages and see the server's response. Unless a keyword is sent the server's response will be 'not a key word.' 
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project4-ss1.png)  
 Fig 1. The launch screen
 
 ![screenshot](images/dummy_thumbnail.jpg)  
