@@ -27,13 +27,13 @@ python scraper.py
 When the user runs the program they will see the title, location, job type, category, and date posted for jobs from python.org/jobs website
 
 ![screenshot](images/project1-ss2.png)  
-Fig 1. The launch screen
+Fig 1. Jobs from website
 
 ![screenshot](images/project1-ss3.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Jobs from website
 
 ![screenshot](images/project1-ss4.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Jobs from website
 
 ## 3. Additional Considerations
 
