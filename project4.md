@@ -3,7 +3,7 @@
 Buddy Chat
 ===============
 
--   **Class: ** 
+-   **Class: Applied Networking** 
 -   **Grade: A** 
 -   **Language(s): C++** 
 -   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
