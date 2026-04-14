@@ -11,24 +11,22 @@ Buddy Chat
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+The program can be run on two separate terminals in the same host or on two different hosts to demonstrate. One user runs the server version by running and compiling server.cpp file and the other runs the buddy chat with buddychat.cpp. The program is designed for the server to listen to requests from the client and the client connects by entering server's port number when buddy chat is run. Buddychat asks the user to enter both the port and ip of the server. The server responds to the client with Not a Key Word unless the user sends a key word to the server. If a keyword is sent the server sends a response back to client based on the keyword. The server is the buddy of the user running the buddychat program.
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile and run the project.
 
 ```bash
-cd ./project
-python setup.py
+g++ server.cpp -o server.out && ./server.out
+g++ buddychat.cpp -o buddychat.out && ./buddychat.out
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+When the server is run, the user will have to enter the port number they want the server to run on. The server will need to be running to receive messages from the user running buddychat. When buddychat is run, the user will first have to enter their buddy's ip and port number and then they can send messages and see the server's response. Unless a keyword is used the server's response will be 'not a key word.' 
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
@@ -41,8 +39,8 @@ Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
+The program can be run in two separate terminals on the same host one for the buddychat and one for the server or on two separate hosts on the same network.
+Key words for the user to send to see the buddy's (server's) response are monkey, elephant, flower, house, and car.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
