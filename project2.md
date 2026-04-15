@@ -26,18 +26,18 @@ make run
 
 The program displays each page that it parsed, whether or not that page was balanced and the number of unique pages that could be visited from each html page
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project2-ss2.png)  
+Fig 1. html file that was parsed 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/project2-ss3.png)  
+Fig 2. html file that was parsed
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project2-ss4.png)  
+Fig 3. An additional run with a 2nd balanced html file
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+The program was run using a makefile on Ubuntu Linux OS 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
