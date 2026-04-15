@@ -15,14 +15,7 @@ This was a group project that was a collection of games where each team member m
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+The program is run as a project in Netbeans IDE version 20 using JDK 21. In Netbeans the program can be run by pressing the green play button or by pressing F6.
 
 ## UI Design
 
