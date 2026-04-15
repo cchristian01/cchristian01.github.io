@@ -12,7 +12,7 @@ Programming Projects
 ---
 ### [Web Crawler | CSCI 315](project2)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2-ss1.jpg)
 
 ---
 ### [Game Collection | CSCI 325](project3)
