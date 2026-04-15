@@ -20,13 +20,13 @@ The program is run as a project in Netbeans IDE version 20 using JDK 21. In Netb
 ## UI Design
 
 The project has a command line interface that loads with a menu where a number is selected to determine the game to be played. 1 for Uno, 2 for Blackjack, 3 for War, and 4 for GoFish q is also on the front menu for the option to quit the program. After a game is selected another menu appears to give the user the options to play the game, view rules for how to play, or return to the main menu.
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project3-ss2.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project3-ss3.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/project3-ss4.png)  
 Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
