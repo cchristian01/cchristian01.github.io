@@ -11,7 +11,7 @@ Web Crawler
 
 ## Project description
 
-This program parses html files in the pages folder to determine if the tags are balanced or not and also to find the number of unique pages that can be visited from each page. The links to other pages within the <a> tags are counted once for each html file and if an html file has a link to a page that is not in the folder it is counted as 0. The program parses the html files and then displays yes or no for each html file depending on if it had balanced tags and a visit count which is the number of unique links it contained.
+This program parses html files in the pages folder to determine if the tags are balanced or not and also to find the number of unique pages that can be visited from each page. The links to other pages within the anchor 'a' tags are counted once for each html file and if an html file has a link to a page that is not in the folder it is counted as 0. The program parses the html files and then displays yes or no for each html file depending on if it had balanced tags and a visit count which is the number of unique links it contained.
 
 ## How to compile and run the program
 
