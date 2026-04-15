@@ -27,10 +27,10 @@ make run
 The program displays each page that it parsed, whether or not that page was balanced and the number of unique pages that could be visited from each html page
 
 ![screenshot](images/project2-ss2.png)  
-Fig 1. html file that was parsed 
+Fig 1. an html file that was parsed 
 
 ![screenshot](images/project2-ss3.png)  
-Fig 2. html file that was parsed
+Fig 2. an html file that was parsed
 
 ![screenshot](images/project2-ss4.png)  
 Fig 3. An additional run with a 2nd balanced html file
