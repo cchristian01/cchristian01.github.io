@@ -17,7 +17,7 @@ Programming Projects
 ---
 ### [Game Collection | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project3-ss1.png)
 
 ---
 ### [Buddy Chat | CSCI 332](project4)
