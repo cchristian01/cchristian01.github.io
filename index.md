@@ -49,7 +49,7 @@ Ethics Papers
 Presentations
 -------------
 
-### [Instruction Memory MIPS32 SCP](algorithms-ethics-paper.doc)
+### [Instruction Memory MIPS32 SCP](pdf/mips32-instruction-memory.pdf)
 
 - **Class: Computer Architecture** 
 - **Grade: A**
