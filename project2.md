@@ -39,6 +39,6 @@ Fig 3. An additional run with a 2nd balanced html file
 
 The program was run using a makefile on Ubuntu Linux OS 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 [Back to Portfolio](./)
