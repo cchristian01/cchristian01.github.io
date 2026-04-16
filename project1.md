@@ -42,6 +42,6 @@ python -m pip install requests
 pip install beautifulsoup4
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 [Back to Portfolio](./)
