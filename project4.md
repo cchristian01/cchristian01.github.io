@@ -41,6 +41,6 @@ Fig 3. Two separate Linux VMs running server and buddychat to communicate
 
 The program can be run in two separate terminals on the same host one for the buddychat and one for the server or on two separate hosts on the same network.
 Key words for the user to send to see the buddy's (server's) response are monkey, elephant, flower, house, and car.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 [Back to Portfolio](./)
