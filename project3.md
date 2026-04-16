@@ -21,18 +21,18 @@ The program is run as a project in Netbeans IDE version 20 using JDK 21. In Netb
 
 The project has a command line interface that loads with a menu where a number is selected to determine the game to be played. 1 for Uno, 2 for Blackjack, 3 for War, and 4 for GoFish q is also on the front menu for the option to quit the program. After a game is selected another menu appears to give the user the options to play the game, view rules for how to play, or return to the main menu.
 ![screenshot](images/project3-ss2.png)  
-Fig 1. The launch screen
+Fig 1. Example showing user playing War card game
 
 ![screenshot](images/project3-ss3.png)  
-Fig 2. Example output after input is processed.
+Fig 2. Example showing user playing Blackjack card game
 
 ![screenshot](images/project3-ss4.png)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Example showing user playing UNO card game
 
 ## 3. Additional Considerations
 
 This GameCollection program was run with Java in Netbeans IDE version 20 using JDK 21.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 [Back to Portfolio](./)
