@@ -5,8 +5,8 @@ LearnNow Interactive Learning Webpage
 -   **Class: Senior Project Implementation & Defense** 
 -   **Grade: To be determined** 
 -   **Language(s): Javascript NodeJS MySQL TailwindCSS React C#** 
--   **Source Code Repository:** [features/mastering-markdown](https://github.com/cchristian01/senior-project/tree/master)  
-    (Please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) to request access.)
+-   **Source Code Repository:** [CSU-Senior-Project](https://github.com/cchristian01/senior-project/tree/master)  
+    
 
 ## Project description
 
