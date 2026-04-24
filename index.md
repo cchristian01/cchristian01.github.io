@@ -6,7 +6,7 @@ Programming Projects
 ---
 ### [LearnNow | CSCI 499](project0)
 
-![Project 1 Thumbnail Name](images/ln-ss5.png)
+![Project 1 Thumbnail Name](images/ln-ss0.png)
 
 ---
 ### [Web Scraper | CSCI 301](project1)
