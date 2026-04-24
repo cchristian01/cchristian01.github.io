@@ -3,6 +3,10 @@ Programming Projects
 --------------------
 
 *For access to my private project repositories, please [email me](mailto:clgreen@student.csuniv.edu?subject=GitHub%20Access) with the subject line, GitHub Access.
+---
+### [LearnNow | CSCI 499](project0)
+
+![Project 1 Thumbnail Name](images/ln-ss5.png)
 
 ---
 ### [Web Scraper | CSCI 301](project1)
