@@ -30,8 +30,8 @@ Fig 2. Server logs client's message and its response
 ![screenshot](images/ln-ss3.png)  
 Fig 3. Two separate Linux VMs running server and buddychat to communicate
 
-![screenshot](images/ln-ss5.png) 
-Fig 3. Two separate Linux VMs running server and buddychat to communicate
+![screenshot](images/ln-ss6.png) 
+Fig 4. Two separate Linux VMs running server and buddychat to communicate
 
 
 
