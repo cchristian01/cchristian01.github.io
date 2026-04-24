@@ -21,15 +21,17 @@ The project runs in a node js run time set up using react library with vite
 
 The website has a homepage the shows screenshots of the website after the user logs in. The website contains links to the login page and the sign up page. Once the user has signed up and logged in, they will be able to access the page that allows the user to select a learning path. The user then selects a subject and then has the option to click game mode or non game mode. At the top of these pages are links to the leaderboard, the user's score, the chat, and the settings. These pages also display user progress, the user's username, and a logout button. The user can play the game or they can read the course lesson and answer questions. The settings has a feature that allows the user to change the background color of the webpage from light to dark.
 
-![screenshot](images/project4-ss1.png)  
+![screenshot](images/ln-ss1.png)  
 Fig 1. User sends messages with buddychat and buddy responds
 
-![screenshot](images/project4-ss2.png)  
+![screenshot](images/ln-ss2.png)  
 Fig 2. Server logs client's message and its response
 
-![screenshot](images/project4-ss4.png)  
+![screenshot](images/ln-ss3.png)  
 Fig 3. Two separate Linux VMs running server and buddychat to communicate
 
+![screenshot](images/ln-ss5.png) 
+Fig 3. Two separate Linux VMs running server and buddychat to communicate
 
 
 
