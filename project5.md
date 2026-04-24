@@ -15,7 +15,8 @@ This project is a learning website designed to be fun and interactive. The websi
 
 ## How to compile and run the program
 
-The project runs in a node js run time set up using react library with vite
+The project runs in a NodeJS runtime set up using React library with Vite
+The project also uses TailwindCSS v4 for styling
 
 ## UI Design
 
