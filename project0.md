@@ -23,16 +23,16 @@ The project also uses TailwindCSS v4 for styling
 The website has a homepage the shows screenshots of the website after the user logs in. The website contains links to the login page and the sign up page. Once the user has signed up and logged in, they will be able to access the page that allows the user to select a learning path. The user then selects a subject and then has the option to click game mode or non game mode. At the top of these pages are links to the leaderboard, the user's score, the chat, and the settings. These pages also display user progress, the user's username, and a logout button. The user can play the game or they can read the course lesson and answer questions. The settings has a feature that allows the user to change the background color of the webpage from light to dark.
 
 ![screenshot](images/ln-ss1.png)  
-Fig 1. User sends messages with buddychat and buddy responds
+Fig 1. User logged in and sees links to website features and learning paths to select
 
 ![screenshot](images/ln-ss2.png)  
-Fig 2. Server logs client's message and its response
+Fig 2. User selected a learning path and page shows available subjects
 
 ![screenshot](images/ln-ss3.png)  
-Fig 3. Two separate Linux VMs running server and buddychat to communicate
+Fig 3. Login page showing links to forgot password and sign up pages
 
 ![screenshot](images/ln-ss6.png) 
-Fig 4. Two separate Linux VMs running server and buddychat to communicate
+Fig 4. User chat feature showing a conversation between two users.
 
 
 
